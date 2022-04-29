@@ -1,0 +1,20 @@
+{
+	"[csv]": {
+		"files.encoding": "shiftjis",
+	},
+	"[vbs]": {
+		"files.encoding": "shiftjis",
+	},
+	"[tsv]": {
+		"files.encoding": "shiftjis",
+	},
+	"[bat]": {
+		"files.encoding": "shiftjis",
+	},
+	"files.associations": {
+		"*.csv": "csv",
+		"*.tsv": "tsv",
+		"*.vbs": "vbs"
+	},
+	"files.autoGuessEncoding.BAK": true
+}
